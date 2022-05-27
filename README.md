@@ -2,7 +2,7 @@
 
 ## Dependencies
 
-- [Install Glorytun](https://github.com/angt/glorytun/wiki/Installation#linux)
+- [Install Glorytun](https://github.com/angt/glorytun/wiki/Installation#linux) or use the binary provided in repo
 
     > Rename the glorytun binary as `glorytun`
 
