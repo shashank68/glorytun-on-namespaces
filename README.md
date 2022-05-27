@@ -2,10 +2,11 @@
 
 ## Dependencies
 
-- Glorytun
+- [Install Glorytun](https://github.com/angt/glorytun/wiki/Installation#linux)
+
+    > Rename the glorytun binary as `glorytun`
 
 ```bash
-wget https://github.com/angt/glorytun/releases/download/v0.3.4/glorytun-0.3.4-x86_64-linux-musl.bin
 sudo apt install iperf3
 ```
 
