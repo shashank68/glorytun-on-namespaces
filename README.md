@@ -25,7 +25,7 @@ sudo ip netns e h2 iperf3 -s
 
 - Client
 ```bash
-sudo ip netns h1 iperf3 -c 10.8.0.1  -b 20mbit -u
+sudo ip netns e h1 iperf3 -c 10.8.0.1  -b 20mbit -u
 ```
 
 
